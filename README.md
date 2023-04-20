@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamed Ibrahim
 - 👀 I’m interested in Coding & Ai
-- 🌱 I’m currently learning Data Structures & Algorithms
+- 🌱 I’m currently into MERN Stack Track
 - 💞️ I’m looking to collaborate on Coding Projects?
 - 📫 How to reach me mohamedhema2017@gmail.com - +201117205719
 - 💻 My Linkedin Profile : https://www.linkedin.com/in/mohamed-ibrahim-774719127/
