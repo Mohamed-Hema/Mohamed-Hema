@@ -98,6 +98,4 @@ I'm always interested in collaborating on **innovative coding projects** and **A
   
 ### 💡 "Building high-performance web experiences, one component at a time"
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mohamed-Hema&color=blueviolet&style=for-the-badge)
-
 </div>
