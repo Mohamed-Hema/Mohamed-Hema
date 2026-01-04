@@ -78,19 +78,6 @@ Frontend Engineer specializing in **React/Next.js** and **TypeScript**, building
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Hema&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Hema&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Hema&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## 📫 Let's Connect!
 
