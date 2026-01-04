@@ -4,6 +4,7 @@
 
 ### Frontend Developer | React • Next.js • TypeScript
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohamed-mostafa-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ibrahim-774719127/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedhema2017@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201117205719)
@@ -78,13 +79,13 @@ Frontend Engineer specializing in **React/Next.js** and **TypeScript**, building
 
 ---
 
-
 ## 📫 Let's Connect!
 
 I'm always interested in collaborating on **innovative coding projects** and **AI applications**. Feel free to reach out!
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohamed-mostafa-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ibrahim-774719127/)
 [![Email](https://img.shields.io/badge/Email-mohamedhema2017@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedhema2017@gmail.com)
 [![Phone](https://img.shields.io/badge/+20_111_720_5719-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201117205719)
@@ -96,5 +97,7 @@ I'm always interested in collaborating on **innovative coding projects** and **A
 <div align="center">
   
 ### 💡 "Building high-performance web experiences, one component at a time"
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mohamed-Hema&color=blueviolet&style=for-the-badge)
 
 </div>
